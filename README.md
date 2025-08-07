@@ -30,6 +30,3 @@ This is an online code editor platform that supports real-time code execution, t
 - **Compiler API:** Judge0 / Custom execution server
 - **Database:** MongoDB (for user data/snippets)
 - **Authentication:** JWT
-
-npm install
-npm start
